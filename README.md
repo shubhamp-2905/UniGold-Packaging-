@@ -1,12 +1,71 @@
-# React + Vite
+# 🌟 UniGold Packaging – Elevating Brands Through Premium Packaging
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **UniGold Packaging**, a leader in crafting innovative and elegant packaging solutions. This responsive, high-performance web interface showcases the company's commitment to quality, creativity, and client satisfaction.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Click here to view the website : https://unigoldpackaging.org/ ])  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🧭 Project Purpose
+
+The **UniGold Web** platform was developed to:
+
+- Highlight UniGold's world-class packaging services
+- Showcase real project galleries, awards, and achievements
+- Build trust through a sleek, responsive, and brand-aligned user experience
+- Offer a foundation for future e-commerce or product catalog integration
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech         | Description                                |
+|--------------|--------------------------------------------|
+| **React.js** | JavaScript library for dynamic UI          |
+| **Vite**     | Lightning-fast build tool and dev server   |
+| **HTML5**    | Semantic structure                         |
+| **Framer Motion**| Smooth animations and transitions          |
+| **CSS3**     | Custom styling and responsive layout       |
+| **JavaScript** | Interactive logic                        |
+
+---
+
+## 💎 Features
+
+✅ **Framer Motion** animations for seamless page transitions  
+✅ Responsive design for mobile, tablet, and desktop  
+✅ Image galleries for awards and packaging samples  
+✅ SEO-ready HTML structure  
+✅ Elegant, clean, and brand-aligned UI/UX
+
+---
+
+## 🖥️ Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/shubhamp-2905/UniGold-Packaging-.git
+
+# Navigate into the project folder
+cd UniGold-Web
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+---
+
+👨‍💼 About the Developer
+Hi, I’m Shubham Paikrao,
+A creative full-stack developer with a passion for aesthetic and performance-driven web design.
+
+🔗 Connect on LinkedIn : https://www.linkedin.com/in/shubham-paikrao-7848162a7/
+📧 shubhampaikrao610@gmail.com 
+
