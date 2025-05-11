@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* Add to your index.css or App.css */
+@keyframes spin-slow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.animate-spin-slow {
+  animation: spin-slow 25s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 20s linear infinite;
+}
+/* .bg-gradient-to-r {
+  display: none;
+} */
+button {
+  cursor: pointer;
+}
